@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/praveenupadhyay200635/TestProjectAzureOrg/_apis/build/status/praveenupadhyay20.pipelines-java?branchName=master)](https://dev.azure.com/praveenupadhyay200635/TestProjectAzureOrg/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
